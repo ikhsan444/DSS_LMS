@@ -1,0 +1,124 @@
+/*--------------------------------------------------------------
+# Navbar  Section
+--------------------------------------------------------------*/
+.navbar {
+  position: relative;
+}
+  
+.navbar-brand{
+  color: #379237;
+}
+
+.collapse {
+  justify-content: center;
+  font-size: 18px;
+  font-weight: 500;
+
+}
+.navbar-nav li a{
+  color: white !important;
+  }
+/*--------------------------------------------------------------
+# Hero Section
+--------------------------------------------------------------*/
+#hero{
+  background: linear-gradient(160deg, rgba(55,146,55,1) 49%, rgba(1,31,1,1) 100%);
+  height: 70vh;
+  width: 100%;
+  
+}
+.hero-tagline h1{
+color: wheat;
+font-weight: 700;
+font-size: 50px;
+line-height: 70px;
+}
+.hero-tagline p{
+  font-size: 16px;
+  color: wheat;
+  margin-bottom: 60px;
+  margin-top: 20px;
+  line-height: 30px;
+  width: 85%;
+}
+
+.line{
+  background-color: #379237;
+  height: 10vh;
+}
+
+#konten{
+  height: 50vh;
+  width: 100%;
+}
+.konten-tagline p{
+  font-size: 16px;
+  
+  font-weight: 500;
+  margin-bottom: 60px;
+  margin-top: 20px;
+  line-height: 30px;
+  width: 85%;
+  text-align: justify;
+}
+.konten-tagline h1{
+  color: c;
+}
+#konten2{
+  height: 50vh;
+  width: 100%;
+ }
+ 
+ .konten2-tagline h1 {
+   text-align: center;
+   color: #4A503D;
+ }
+ .konten2-tagline p{
+  text-align: center;
+  
+}
+.konten2-tagline button{
+  align-items: center;
+}
+
+#konten3{
+  margin-top: 50px;
+}
+.konten3-tagline h1 {
+  text-align: left;
+  color: #4A503D;
+}
+
+#konten4{
+  margin-top: 50px;
+
+}
+#konten4 h1, h5 {
+  color:#4E6C50;
+}
+
+#konten_form{
+  margin-top: 10vh;
+}
+.nav-pills-custom .nav-link {
+  color: #6f746f;
+  background: #fff;
+  position: relative;
+  text-align: left !important;
+}
+
+.nav-pills-custom .nav-link.active {
+  color: #45b649 !important;
+  background: #fff !important;
+}
+
+
+.page-footer{
+	background-color:black;
+	color:#666;
+	padding: 40px 0 30px; 
+	margin-top: 50px;
+} 
+.footer-copyright{color:#666;
+	padding: 40px 0; 
+}  
